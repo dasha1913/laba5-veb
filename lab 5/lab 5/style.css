@@ -1,0 +1,488 @@
+.text 
+{
+	width: 1872px;
+    height: 90px;
+    background: #5B6169;
+    position: relative;
+}
+
+#task
+{
+	height: auto;
+	margin-top:25px;
+	margin-left:26%;
+}
+#templ
+{
+    height:auto;
+    margin-left: 26%
+}
+.fon1{
+	width: 1872px;
+	height: 459.22px;
+	position: relative;
+}
+.phone1
+{
+	left: 466px; 
+	 top: 102%; 
+	 position: absolute; 
+}
+.IOS
+{ 
+	 left: 960px; 
+	 top: 200px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 48px;
+	 font-size: 48px; 
+	 color: rgb(255, 255, 255);
+	 text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+}
+.lorem
+{
+	 left: 960px; 
+	 top: 285px; 
+	 position: absolute; 
+	 width: 420px;
+	 color:#818181;
+	 font-family: arial;
+     line-height: 1.167;
+     text-align: justify;
+}
+.blue
+{
+	 left: 965px; 
+	 top: 382px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 43px;
+}
+.moreinfo
+{
+     left: 1015px; 
+	 top: 390px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 14px;
+	 color: white;
+}
+.pt1
+{
+ left: 1345px; 
+ top: 495px;  
+ position: absolute; 
+}
+.pt2
+{
+ left: 1360px; 
+ top: 495px; 
+ position: absolute; 
+}
+.pt3
+{
+ left: 1375px; 
+ top: 495px; 
+ position: absolute; 
+}
+.line{
+	width: 1872px;
+	height: 600px;
+	position: relative;
+}
+.white{
+	width: 1872px;
+	height: 100px;
+}
+.ln1{
+    border: none;
+    position: absolute;
+    background-color: #818181;
+    color: #818181;
+    height: 2px;
+    width: 200px;
+    left:30%;
+    top:11%;
+   }
+.ln2{
+	position: absolute;
+    border: none;
+    background-color: #818181;
+    color: #818181;
+    height: 2px;
+    width:200px;
+    margin-right: 100px;
+    right:24%;
+    top:11%;
+}
+.services
+{
+	font-weight: lighter;
+ 	position: absolute;
+ 	font-size: 50px;
+	color:#818181;
+	left:42%;
+	top:7.5%;
+}
+.windows
+{
+	 left: 1218px; 
+	 top: 150px; 
+	 position: absolute;
+}
+.head1
+{
+ 	left: 1220px; 
+	 top: 300px; 
+	 position: absolute; 
+	 color: #3674ba;
+	 font-size: 24px;
+}
+.lor
+{
+	 text-align: center;
+	 font-size: 15px;
+	 left: 1133px; 
+	 top: 355px; 
+	 position: absolute; 
+	 font-family: arial;
+     line-height: 1.160;
+     width: 290px;
+}
+.blue1
+{
+	left: 870px; 
+	 top: 450px; 
+	 position: absolute; 
+}
+.moreinfo1
+{
+     left: 922px; 
+	 top: 458px; 
+	 position: absolute; 
+	 color: white;
+}
+.blue2
+{
+	left: 1195px; 
+	 top: 450px; 
+	 position: absolute; 
+}
+.moreinfo2
+{
+	left: 1245px; 
+	 top: 458px; 
+	 position: absolute; 
+	 color: white;
+
+}
+.blue3
+{
+     left: 550px; 
+	 top: 450px; 
+	 position: absolute; 
+}
+.moreinfo3
+{
+     left: 600px; 
+	 top: 458px; 
+	 position: absolute; 
+	 color: white;
+}
+.android
+{
+	left: 880px; 
+	 top: 150px; 
+	 position: absolute; 
+}
+.head2
+{
+     left: 885px; 
+	 top: 300px; 
+	 position: absolute; 
+	 color: #3674ba;
+	 font-size: 24px;
+}
+.lor1
+{
+	 left: 810px; 
+	 top: 355px; 
+	 position: absolute; 
+	 text-align: center;
+	 font-size: 15px; 
+	 font-family: arial;
+     line-height: 1.160;
+     width: 290px;
+}
+.apple
+{
+	 left: 580px; 
+	 top: 150px; 
+	 position: absolute; 
+}
+.head3
+{
+     left: 579px; 
+	 top: 300px; 
+	 position: absolute; 
+	 color: #3674ba;
+	 font-size: 24px;
+}
+.lor2
+{
+	left: 490px; 
+	 top: 355px; 
+	 position: absolute; 
+	 text-align: center;
+	 font-size: 15px; 
+	 font-family: arial;
+     line-height: 1.160;
+     width: 290px;
+}
+.line2{
+ 	background: #D1D1D1;
+ 	top: 440px;
+ 	width: 1872px;
+	height: 650px;
+	position: relative;
+}
+.black{
+ 	width: 1872px;
+	height: 100px;
+}
+.about{
+ 	position: absolute;
+	font-weight: lighter;
+ 	font-size: 50px;
+	color:#5B6169;
+ 	left: 46.7%;
+ 	top: 10%;
+}
+.ln3{
+    position: absolute;
+	top: 14%;
+	left: 35%;
+    border: none;
+    background-color: #5B6169;
+    color: #5B6169;
+    height: 2px;
+    width: 200px;
+}
+.ln4{
+ 	position: absolute;
+	right: 34%;
+	top: 14%;
+    border: none;
+    background-color: #5B6169;
+    color: #5B6169;
+    height: 2px;
+    width: 200px;
+}
+.texxt{
+	width: 1200px;
+	margin-top: 65px;
+	margin-left: 355px;
+}
+.fone{
+	width: 450px;
+	margin-left:100px;
+}
+.testtask{
+ 	color: rgb(124, 124, 124);
+     line-height: 1.2;
+     font-size:36px;
+ }
+ .words{
+ 	text-align: justify;
+ 	width: 420px;
+ 	font-size: 15px;
+ 	margin-top: 10px;
+ 	font-family: arial;
+ }
+ .map
+ {
+ 	left: 935px; 
+	 top: 195px; 
+	 position: absolute; 
+	 width: 460px;
+	 height: 153px;
+ }
+ .checkpoint
+ {
+ 	left: 1137px; 
+	 top: 265px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 25px;
+ }
+.name 
+{ 
+	 left: 935px; 
+	 top: 360px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+
+} 
+
+.email 
+{ 
+	 left: 935px; 
+	 top: 400px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+
+} 
+.phone 
+{ 
+	 left: 935px; 
+	 top: 440px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:37;
+} 
+.message 
+{ 
+	 left: 935px; 
+	 top: 480px; 
+	 position: absolute; 
+	 width: 463px;	 
+     height: 117px;
+} 
+.push
+{ 
+	 left: 1303px; 
+	 top: 564px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 33px;
+	 z-index:39;
+	 background: #3674ba;
+	 color: white;
+}
+.kills
+{
+     left: 455px; 
+	 top: 390px; 
+	 position: absolute; 
+	 color: #3674ba;
+	 font-size: 29px;
+}
+.color1 
+{ 
+	 left: 454px; 
+	 top: 440px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:1;
+} 
+
+.color2 
+{ 
+	 left: 454px; 
+	 top: 480px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:2;
+} 
+
+.color3 
+{ 
+	 left: 454px; 
+	 top: 525px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:3;
+} 
+
+.color4
+{ 
+	 left: 454px; 
+	 top: 567px; 
+	 position: absolute; 
+	 z-index: 4;
+} 
+
+.color11
+{ 
+	 left:454px; 
+	 top: 440px; 
+	 position: absolute; 
+} 
+
+.color22 
+{ 
+	 left: 454px; 
+	 top: 480px; 
+	 position: absolute; 
+} 
+
+.color33 
+{ 
+	 left: 454px; 
+	 top: 525px; 
+	 position: absolute; 
+} 
+
+.color44
+{ 
+	 left: 454px; 
+	 top: 567px; 
+	 position: absolute; 
+} 
+.css
+{
+	font-size: 20px;
+	left: 475px; 
+	 top: 441px; 
+	 position: absolute; 
+	 color: white;
+	 z-index: 5;
+}
+.html
+{
+	font-size: 20px;
+	left: 475px; 
+	 top: 483px; 
+	 position: absolute; 
+	 color: white;
+	 z-index: 6;
+}
+.photo
+{
+	font-size: 20px;
+	left: 475px; 
+	 top: 529px; 
+	 position: absolute; 
+	 color: white;
+	 z-index: 7;
+}
+.mobile
+{
+	font-size: 20px;
+	left: 475px; 
+	 top: 569px; 
+	 position: absolute; 
+	 color: white;
+	 z-index: 8;
+}
+.copy
+{ 
+	 left: -25px; 
+	 top: 700px; 
+	 position: absolute; 
+} 
+
+.copy1
+{ 
+	 left: 920px; 
+	 top: 720px; 
+	 position: absolute; 
+	 color: rgb(111, 111, 111);
+	 font-size: 14px;
+} 
